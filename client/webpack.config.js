@@ -21,7 +21,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "Just Another Text Editor",
+        title: "JATE",
       }),
 
       new InjectManifest({
@@ -35,8 +35,8 @@ module.exports = () => {
         name: "Just Another Text Editor",
         short_name: "JATE",
         description: "A text editor that can work offline",
-        background_color: "#c9aa88",
-        theme_color: "#c9aa88",
+        background_color: "#225ca3",
+        theme_color: "#225ca3",
         start_url: "/",
         publicPath: "/",
         icons: [
