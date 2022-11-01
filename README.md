@@ -10,8 +10,6 @@ This is a text editor that runs in a browser and  it features a number of data p
 
 [A deployed version can be viewed here.](https://howling-fangs-17072.herokuapp.com/)
 
-See the application's GitHub repository [here.](https://github.com/jbtiglao/JATE)
-
   ---
   ## Table of Contents
   1. [Title](#title)
